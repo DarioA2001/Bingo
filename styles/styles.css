@@ -7,25 +7,25 @@
     box-sizing: border-box;
 }
 
-body{
+body {
     margin:0;
 }
 
 
-.header{
+.header {
     background-color: var(--color-red);
     color: white;
     padding: 20px;
     text-align: center;
 }
 
-main{
+main {
 
     text-align: center;
 }
 
 
-.title{
+.title {
     font-size: 4em;
     margin: 0;
     color: var(--color-grey);
