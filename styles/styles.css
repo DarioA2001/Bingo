@@ -1,0 +1,27 @@
+:root {
+--color-red: #ff0000;
+--color-grey: #333;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+}
+
+
+.header{
+    background-color: var(--color-red);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.title{
+    font-size: 2em;
+    margin: 0;
+    color: var(--color-grey);
+}
